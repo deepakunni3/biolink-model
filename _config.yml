@@ -4,7 +4,7 @@ description: A high level datamodel for representing biological entities and the
 
 logo: "/assets/images/biolink-logo.png"
 
-remote_theme: pmarsceill/just-the-docs
+remote_theme: pmarsceill/just-the-docs@v0.3.3
 
 ga_tracking: UA-157380109-1
 
